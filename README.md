@@ -1,0 +1,2 @@
+# springboot-kerberos-hikari-impala
+Springboot使用hikari连接池并进行Kerberos认证访问Impala的演示项目

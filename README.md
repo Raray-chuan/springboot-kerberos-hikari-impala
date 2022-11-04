@@ -20,7 +20,7 @@ CDH集群的Hadoop版本:3.0.0-cdh6.3.2
 
 ## 1. Hikari源码改造,以支持Kerberos认证
 
-如果想了解为什么要修改Hikari来支持Kerberos认证，以及如何修改Hikari源码，请到下面地址查看https://github.com/Raray-chuan/HikariCP-4.0.3，此项目中有详细的readme解答
+如果想了解为什么要修改Hikari来支持Kerberos认证，以及如何修改Hikari源码，请到下面地址查看:`https://github.com/Raray-chuan/HikariCP-4.0.3 `, 此项目中有详细的readme解答
 
 如果不想手动修改源码以及编译，而且HikariCP版本为4.0.3，在项目的resources目录中有编译好的HikariCP-4.0.3.jar可供使用
 
